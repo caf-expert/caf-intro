@@ -1,4 +1,6 @@
-# Willkommen auf diesem Lernpfad für das Cloud Adoption Framework für Azure auf Deutsch
+# Willkommen auf diesem Lernpfad
+
+Einführung in das Cloud Adoption Framework für Azure auf Deutsch
 
 Ziel dieses Lernpfades ist es, die Grundlagen zum Cloud Adoption Framework (CAF) zu vermitteln und durch die wichtigsten Module und Hilfsmittel zu leiten.
 
