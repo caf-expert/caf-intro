@@ -6,6 +6,9 @@ Auf dem Portal MS Learn gibt es einen Lernpfad zum Cloud Adoption Framework. Die
 
 [MS Learn Lernpfad](https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
 
+
+<iframe src="https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/"></iframe>
+
 ## Teil 2: Einführung in Azure Landing Zones
 
 ***VIDEO***
