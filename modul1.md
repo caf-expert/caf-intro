@@ -1,13 +1,14 @@
 # Microsoft Cloud Adoption Framework (CAF) Einführung
 
-## Teil 1: MS Learn - Lernpfad
+Diese Einführung besteht aus zwei Teilen. Beide Teile verweisen jeweils auf die entscheidenen Stellen in der Microsoft Dokumantation bzw. dem Lernportal.
+
+## Teil 1: MS Lernportal - Lernpfad zum CAF
 
 Auf dem Portal MS Learn gibt es einen Lernpfad zum Cloud Adoption Framework. Diesen druchzuarbeiten ist eine gute Basis um die weiteren Teilbereiche des CAFs besser kennenzulernen.
 
-[MS Learn Lernpfad](https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
+[MS Lernportal Lernpfad](https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
 
-
-<iframe src="https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/"></iframe>
+***VIDEO***
 
 ## Teil 2: Einführung in Azure Landing Zones
 
