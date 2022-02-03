@@ -1,0 +1,1 @@
+# Microsoft Cloud Adoption Framework (CAF) Strategy, Plan and Ready

@@ -1,21 +1,29 @@
 # Microsoft Cloud Adoption Framework (CAF) Einführung
 
-Diese Einführung besteht aus zwei Teilen. Beide Teile verweisen jeweils auf die entscheidenen Stellen in der Microsoft Dokumantation bzw. dem Lernportal.
-
-***VIDEO***
+Diese Einführung besteht aus zwei Teilen. Beide Teile verweisen jeweils auf die entscheidenen Stellen in der Microsoft Dokumentation bzw. dem Lernportal.
 
 ## Teil 1: MS Lernportal - Lernpfad zum CAF
 
-Auf dem Portal MS Learn gibt es einen Lernpfad zum Cloud Adoption Framework. Diesen druchzuarbeiten ist eine gute Basis um die weiteren Teilbereiche des CAFs besser kennenzulernen.
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YBQdlfT4Rrs" title="CAF Einführung - Überblick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
+Auf dem Portal MS Learn gibt es einen [Lernpfad](https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/) zum Cloud Adoption Framework. Diesen druchzuarbeiten ist eine gute Basis um die weiteren Teilbereiche des CAFs besser kennenzulernen.
+
+### Link zum Lernportal
 [MS Lernportal Lernpfad](https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
 
 ## Teil 2: Einführung in Azure Landing Zones
 
-***VIDEO***
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VnOdT5EpkAs" title="CAF Einführung - Azure Landing Zone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Weitere gute Quellen in den Microsoft Docs:
+### Weitere gute Quellen in den Microsoft Docs
 
 - [Was sind Azure Landing Zones](https://docs.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/?ns-enrollment-type=Collection&ns-enrollment-id=o50rfk558qj4xo)
 - [Weg zur Ziel Architektur](https://docs.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/landing-zone-journey?ns-enrollment-type=Collection&ns-enrollment-id=o50rfk558qj4xo)
 - [Design Areas in den Azure Landing Zones](https://docs.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-areas?ns-enrollment-type=Collection&ns-enrollment-id=o50rfk558qj4xo)
+
+### Im Video genannte Resourcen für nächste Schritte
+
+- [Dokumentation zu den Azure Landing Zones](https://aka.ms/adopt/landingzones)
+- [Bereitstellung einer Azure Landing Zone](https://aka.ms/adopt/landingzones/enterprise-scale/implementation)
