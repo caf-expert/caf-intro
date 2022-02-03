@@ -15,7 +15,9 @@ Auf dem Portal MS Learn gibt es einen [Lernpfad](https://docs.microsoft.com/lear
 
 ## Teil 2: Einführung in Azure Landing Zones
 
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VnOdT5EpkAs" title="CAF Einführung - Azure Landing Zone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ### Weitere gute Quellen in den Microsoft Docs
 
