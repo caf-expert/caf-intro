@@ -29,3 +29,5 @@ Auf dem Portal MS Learn gibt es einen [Lernpfad](https://docs.microsoft.com/lear
 
 - [Dokumentation zu den Azure Landing Zones](https://aka.ms/adopt/landingzones)
 - [Bereitstellung einer Azure Landing Zone](https://aka.ms/adopt/landingzones/enterprise-scale/implementation)
+
+**[Zurück zur Übersicht](/index.md)**
