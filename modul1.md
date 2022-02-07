@@ -1,6 +1,6 @@
 # Microsoft Cloud Adoption Framework (CAF) Einführung
 
-Diese Einführung besteht aus zwei Teilen. Beide Teile verweisen jeweils auf die entscheidenen Stellen in der Microsoft Dokumentation bzw. dem Lernportal.
+Diese Einführung besteht aus zwei Teilen. Beide Teile verweisen jeweils auf die entscheidenden Stellen in der Microsoft Dokumentation bzw. dem Lernportal.
 
 ## Teil 1: MS Lernportal - Lernpfad zum CAF
 
@@ -8,7 +8,7 @@ Diese Einführung besteht aus zwei Teilen. Beide Teile verweisen jeweils auf die
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YBQdlfT4Rrs" title="CAF Einführung - Überblick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-Auf dem Portal MS Learn gibt es einen [Lernpfad](https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/) zum Cloud Adoption Framework. Diesen druchzuarbeiten ist eine gute Basis um die weiteren Teilbereiche des CAFs besser kennenzulernen.
+Auf dem Portal MS Learn gibt es einen [Lernpfad](https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/) zum Cloud Adoption Framework. Diesen durchzuarbeiten ist eine gute Basis um die weiteren Teilbereiche des CAFs besser kennenzulernen.
 
 ### Link zum Lernportal
 [MS Lernportal Lernpfad](https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
@@ -25,7 +25,7 @@ Auf dem Portal MS Learn gibt es einen [Lernpfad](https://docs.microsoft.com/lear
 - [Weg zur Ziel Architektur](https://docs.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/landing-zone-journey?ns-enrollment-type=Collection&ns-enrollment-id=o50rfk558qj4xo)
 - [Design Areas in den Azure Landing Zones](https://docs.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-areas?ns-enrollment-type=Collection&ns-enrollment-id=o50rfk558qj4xo)
 
-### Im Video genannte Resourcen für nächste Schritte
+### Im Video genannte Ressourcen für nächste Schritte
 
 - [Dokumentation zu den Azure Landing Zones](https://aka.ms/adopt/landingzones)
 - [Bereitstellung einer Azure Landing Zone](https://aka.ms/adopt/landingzones/enterprise-scale/implementation)
