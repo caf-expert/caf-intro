@@ -13,7 +13,9 @@ Was sind die vier wichtigen Schritte in diesem Modul:
 - **Bewerten der finanziellen Aspekte**: Informieren Sie sich darüber, wie Sie die Cloud nutzen, um Ihre IT-Kostenstruktur flexibler zu gestalten und ein Geschäftsszenario für die Einführung der Cloud zu entwickeln.
 - **Grundlegendes zu technischen Überlegungen und Identifikation der ersten Projekte** - Erkunden Sie die technische Flexibilität, die Effizienz und die Funktionen, mit denen Sie ein Geschäftsszenario für die Einführung der Cloud entwickeln können und identifizieren Sie erste Projekt zur Erreichung der gewünschten Geschäftsergebnisse.
 
-**VIDEO**
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Vt130E0v2go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ### Modul Strategy - Weitere Quellen
 
@@ -53,7 +55,9 @@ Was sind die vier wichtigen Schritte in diesem Modul:
 - **Plan für die benötige Qualifikation**: Erstellen Sie einen Plan für den Umgang mit Qualifikationslücken.
 - **Erster Cloudeinführungsplan**: Entwickeln Sie einen Cloudeinführungsplan für das Change Management im Zusammenhang mit digitalen Ressourcen, Qualifikationen und der Organisation.
 
-**VIDEO**
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Iyd9gVH0GTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ### Modul Plan - Weitere Quellen
 - [Microsoft Dokumentation zur Modul Plan](https://docs.microsoft.com/azure/cloud-adoption-framework/plan/)
