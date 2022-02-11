@@ -14,7 +14,7 @@ Was sind die vier wichtigen Schritte in diesem Modul:
 - **Grundlegendes zu technischen Überlegungen und Identifikation der ersten Projekte** - Erkunden Sie die technische Flexibilität, die Effizienz und die Funktionen, mit denen Sie ein Geschäftsszenario für die Einführung der Cloud entwickeln können und identifizieren Sie erste Projekt zur Erreichung der gewünschten Geschäftsergebnisse.
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Vt130E0v2go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Vt130E0v2go" title="CAF Einführung - Stratgy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ### Modul Strategy - Weitere Quellen
@@ -56,7 +56,7 @@ Was sind die vier wichtigen Schritte in diesem Modul:
 - **Erster Cloudeinführungsplan**: Entwickeln Sie einen Cloudeinführungsplan für das Change Management im Zusammenhang mit digitalen Ressourcen, Qualifikationen und der Organisation.
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Iyd9gVH0GTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Iyd9gVH0GTw" title="CAF einführung - Plan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ### Modul Plan - Weitere Quellen
@@ -95,7 +95,9 @@ Was sind die vier wichtigen Schritte in diesem Modul:
 - **Erweitern der Landing Zone**: Erfüllen Sie die Plattformanforderungen Ihres Cloudeinführungsplans, indem Sie die erste Zielzone erweitern.
 - **Bewährte Methoden**: Überprüfen Sie sämtliche Anpassungen anhand der bewährten Methoden, um sicherzustellen, dass Ihre aktuellen und zukünftigen Zielzonen ordnungsgemäß konfiguriert sind.
 
-**VIDEO**
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xNRqX5BgoHY" title="CAF Einführung - Ready" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ### Weitere Quellen
 
