@@ -8,7 +8,7 @@ Diese Einführung besteht aus zwei Teilen. Beide Teile verweisen jeweils auf die
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YBQdlfT4Rrs" title="CAF Einführung - Überblick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-[Folien aus dem Video](/slides/CAF%20Intro.pptx)
+[Folien aus dem Video](https://raw.githubusercontent.com/caf-expert/caf-intro/main/slides/CAF%20Intro.pptx)
 
 Auf dem Portal MS Learn gibt es einen [Lernpfad](https://docs.microsoft.com/learn/modules/microsoft-cloud-adoption-framework-for-azure/) zum Cloud Adoption Framework. Diesen durchzuarbeiten ist eine gute Basis um die weiteren Teilbereiche des CAFs besser kennenzulernen.
 
@@ -21,7 +21,7 @@ Auf dem Portal MS Learn gibt es einen [Lernpfad](https://docs.microsoft.com/lear
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VnOdT5EpkAs" title="CAF Einführung - Azure Landing Zone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-[Folien aus dem Video](/slides/CAF%20Intro%20-%20ALZ.pptx)
+[Folien aus dem Video](https://raw.githubusercontent.com/caf-expert/caf-intro/main/slides/CAF%20Intro%20-%20ALZ.pptx)
 
 ### Weitere gute Quellen in den Microsoft Docs
 
