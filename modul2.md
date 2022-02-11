@@ -17,6 +17,8 @@ Was sind die vier wichtigen Schritte in diesem Modul:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Vt130E0v2go" title="CAF Einführung - Stratgy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+[Folien aus dem Video](/slides/CAF%20Intro%20-%20Strategy.pptx)
+
 ### Modul Strategy - Weitere Quellen
 
 - [Microsoft Dokumentation CAF Strategy](https://docs.microsoft.com/azure/cloud-adoption-framework/strategy/)
@@ -59,6 +61,8 @@ Was sind die vier wichtigen Schritte in diesem Modul:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Iyd9gVH0GTw" title="CAF einführung - Plan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+[Folien aus dem Video](/slides/CAF%20Intro%20-%20Plan.pptx)
+
 ### Modul Plan - Weitere Quellen
 - [Microsoft Dokumentation zur Modul Plan](https://docs.microsoft.com/azure/cloud-adoption-framework/plan/)
 
@@ -98,6 +102,8 @@ Was sind die vier wichtigen Schritte in diesem Modul:
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xNRqX5BgoHY" title="CAF Einführung - Ready" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+[Folien aus dem Video](/slides/CAF%20Intro%20-%20Ready.pptx)
 
 ### Weitere Quellen
 
