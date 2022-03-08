@@ -14,11 +14,11 @@ Ziel dieses Lernpfades ist es, die Grundlagen zum Cloud Adoption Framework (CAF)
 
 - [Microsoft Cloud Adoption Framework (CAF) Einführung](modul1.md)
 - [​Microsoft Cloud Adoption Framework (CAF) Strategy, Plan and Ready](modul2.md)
-- Microsoft Cloud Adoption Framework (CAF) Adopt
+- [Microsoft Cloud Adoption Framework (CAF) Adopt](modul3.md)
 - [Microsoft Cloud Adoption Framework (CAF) Govern](modul4.md)
 - [Microsoft Cloud Adoption Framework (CAF) Manage](modul5.md)
 - [Microsoft Cloud Adoption Framework (CAF) Organize](modul6.md)
-- Microsoft Cloud Adoption Framework (CAF) Secure (optional)
+- [Microsoft Cloud Adoption Framework (CAF) Secure (optional)](modul7.md)
 
 ## Wichtigsten Quellen für das Microsoft Cloud Adoption Framework (CAF)
 
