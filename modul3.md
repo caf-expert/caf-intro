@@ -15,7 +15,9 @@ Wobei *Rehosten* dem Azure-Migrate entspricht und die weiteren Rs Refactoring, R
 
 ## CAF - Adopt
 
-**VIDEO**
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZNBSER5QWdY" title="CAF Einführung - Adopt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ### Adopt - Migrate
 

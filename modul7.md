@@ -10,7 +10,9 @@ Die Secure-Methodik bietet eine Vision des vollständigen Endzustands, um die Ve
 
 Im Cloud Adoption Framework ist das Thema Security an vielen Stellen schon immer verankert. Mittlerweile haben wir dem Thema Security ein eigenes Kapitel im CAF gewidmet.
 
-**VIDEO**
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xojWM1ROFkY" title="CAF Einführung - Secure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ## Modul Secure - Weitere Quellen
 
