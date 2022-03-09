@@ -19,6 +19,8 @@ Wobei *Rehosten* dem Azure-Migrate entspricht und die weiteren Rs Refactoring, R
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZNBSER5QWdY" title="CAF Einführung - Adopt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+[Folien aus dem Video](https://raw.githubusercontent.com/caf-expert/caf-intro/main/slides/CAF%20Intro%20-%20Adopt.pptx)
+
 ### Adopt - Migrate
 
 Der Cloudeinführungsplan jedes Unternehmens beinhaltet Workloads, die keine umfangreichen Investitionen in die Erstellung neuer Geschäftslogik erfordern. Diese Workloads können mithilfe verschiedener Methoden in die Cloud migriert werden: per Lift & Shift, per Lift & Optimize oder mittels Modernisierung. Jede der Methoden wird als Migration betrachtet.

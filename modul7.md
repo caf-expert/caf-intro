@@ -14,6 +14,8 @@ Im Cloud Adoption Framework ist das Thema Security an vielen Stellen schon immer
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xojWM1ROFkY" title="CAF Einführung - Secure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+[Folien aus dem Video](https://raw.githubusercontent.com/caf-expert/caf-intro/main/slides/CAF%20Intro%20-%20Secure.pptx)
+
 ## Modul Secure - Weitere Quellen
 
 [Microsoft Cloud Adoption Framework Secure Dokumentation](https://docs.microsoft.com/azure/cloud-adoption-framework/secure/)
